@@ -1,0 +1,17 @@
+{
+    "name": "daniel/profix-test",
+    "description": "The project with composer",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Daniel.P",
+            "email": "palm6991@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^8"
+    }
+}
